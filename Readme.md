@@ -13,6 +13,3 @@ This example is the resulting project if you follow the steps described in the [
 
 
 > Restore packages (listed in the [package.json](./CS/SimpleAspNetCoreReportingViewer/package.json) file) before running this project. For more information review the following article: [Restore packages using Package Restore](https://docs.microsoft.com/en-us/nuget/consume-packages/package-restore).
-
-
-![screenshot](images/screenshot.png)
